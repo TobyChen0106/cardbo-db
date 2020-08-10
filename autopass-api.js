@@ -14,7 +14,7 @@ client.connect((err, client, done) => {
     console.log("Database Connected!");
 });
 
-router.get('/getofferdata-by-cardname', (apiReq, apiRes) => {
+router.get('/getofferdata-by-cardname-and-bankname', (apiReq, apiRes) => {
     const cardName = apiReq.query.cardname;
     const bankName = apiReq.query.bankname;
 
@@ -105,13 +105,13 @@ router.get('/getbanks', (apiReq, apiRes) => {
 
 router.get('/getuser-by-lineid', (apiReq, apiRes) => {
     const lineid = apiReq.query.lineid;
-    if (apiReq.query.key === "UtEQf3SsWgOSalrIpdkH0FJae1OmWknVVlGVw9a7asKWZd7w2qXMXcmlqSgBn2GI") {
-        client.query(`SELECT * FROM cards`, (err, res) => {
+    if (lineid && apiReq.query.key === "UtEQf3SsWgOSalrIpdkH0FJae1OmWknVVlGVw9a7asKWZd7w2qXMXcmlqSgBn2GI") {
+        client.query(`SELECT * FROM users WHERE lineid='${lineid}'`, (err, res) => {
             if (err) {
                 console.log(err);
                 apiRes.json(err);
             } else {
-                apiRes.json(res);
+                apiRes.json(res.rows[0]);
             }
         });
     } else {
@@ -119,21 +119,6 @@ router.get('/getuser-by-lineid', (apiReq, apiRes) => {
     }
 });
 
-router.get('/getusers', (apiReq, apiRes) => {
-    const lineid = apiReq.query.lineid;
-    if (apiReq.query.key === "UPT6RFfAxOPzfm640HOxb7l7IIlJeLQwSqIkilgORUmg3vkafacl8C5MKNn1bZ9P") {
-        client.query(`SELECT * FROM users`, (err, res) => {
-            if (err) {
-                console.log(err);
-                apiRes.json(err);
-            } else {
-                apiRes.json(res.rows);
-            }
-        });
-    } else {
-        apiRes.json("Api Key Error!");
-    }
-});
 
 router.post('/update-user', (apiReq, apiRes) => {
     const lineid = apiReq.body.lineid;
