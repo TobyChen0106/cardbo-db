@@ -1,0 +1,1970 @@
+[
+    {
+        "id": "6bd8732b-7a72-461e-b0b7-65a068d2b97c",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "VISA無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "7f899979-3859-474f-8878-61e93716f523",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "MASTERCARD世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "388a0ad5-0f99-4c24-a7c0-c58c985aead6",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "鈦金商旅卡（My樂現金回饋卡）",
+        "cardimage": null
+    },
+    {
+        "id": "e9c25634-cfff-48bb-8bdf-8af0040d8d26",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "MASTERCARD鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "6b683282-176e-433c-bded-980c23d3d0ba",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "JCB晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "4503ce06-9a21-450e-9587-06c32786ce1a",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "VISA世紀白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "516f23c1-6630-441d-b6b8-f51bd42744d7",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "金卡",
+        "cardimage": null
+    },
+    {
+        "id": "02f59aca-46b5-4a35-8078-aa1604faa66e",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "普卡",
+        "cardimage": null
+    },
+    {
+        "id": "4cef265e-60fc-4a81-a2b7-e9b406226b33",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "金卡combo信用卡",
+        "cardimage": null
+    },
+    {
+        "id": "cfd2ed05-de41-44c9-b208-10176b6f964a",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "JCB悠遊晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "0aa5a887-e62c-4200-a32d-efa8f121d3dd",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "JCB悠遊普卡",
+        "cardimage": null
+    },
+    {
+        "id": "f375f2fb-0fb7-4d03-b346-52c38d4cfc58",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "VISA悠遊遊御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "7ffbd605-ad8e-4ecd-8f65-c16c06f0041d",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "JCB哆啦A夢悠遊晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "b56ed67b-773f-4473-8f69-3521a274753e",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "VISA一卡通御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "ee73c5d7-f726-4745-b1e4-101657f3b3f3",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "JCB一卡通晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "0446c65b-f8c9-4bd8-9e15-33ee6834cca4",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "03d4c7d8-026d-4ca5-ae47-2aa1f16fe9fd",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "商務白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "f47358ce-a325-4a6b-a215-a55cb28cda89",
+        "bankid": "c508a620-a0d2-4b00-bb52-8e9c3e650dbd",
+        "cardname": "商務金卡",
+        "cardimage": null
+    },
+    {
+        "id": "69cb222e-346b-4adf-ac82-3bd6102ce9c4",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "鑽悠遊無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "359986e8-fa81-4c63-85f0-e11f0f1f3ce2",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "大立無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "eebd246e-da32-480d-b78e-c059211202c1",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "個人商務白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "5b1ca410-5388-49d8-93e6-5f8e087910d7",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "聯邦無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "d9dea6fe-bf6e-43b5-b652-6a3a222f28f1",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "聯邦經典御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "49d73e6c-f7cf-401f-91cb-9d92101f7b5d",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "微風無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "f754973c-5437-4b15-a22e-788e17732233",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "樂活御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "aa19ad81-6c35-4bcc-a5d8-bf52edb3b56a",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "樂活鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "eca5cb28-53f4-42ce-808e-dd50fb25ae27",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "幸福御守御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "6b6bb50e-cfa1-4f93-b315-66b091fa5f8b",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "9efdf2ac-8704-4287-bc5f-9646cb831dd3",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "理財型白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "f24f3728-e4ca-4d60-a865-2ad9f04e1c45",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "八福公益鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "912e927e-db36-487a-a90b-7dcc035469c9",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "c2f3e994-2db9-4c70-95ff-4dafb8d10156",
+        "bankid": "05f69d39-692e-497d-9b16-b7e08f0394ca",
+        "cardname": "全國加油聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "f614ef65-c410-4287-a147-14e1e56ee1bd",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "JCB櫻花晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "4400d15f-e394-4f1f-a549-6edd256904e4",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "JCB哆啦A夢晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "812daff3-5412-4bb8-a512-6e3d57ed9386",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "VISA白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "077c3fb4-8cf6-4c14-8c89-6b5420732108",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "Mastercard樂購商旅鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "d09326b7-958d-46f3-a6e7-f46fc01e60e2",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "Mastercard瑪利亞鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "0c6bfd35-9489-4c9c-a367-db40f94ba48d",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "JCB瑪利亞晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "6aec18a7-0520-4038-ab69-5fd9acf1eccc",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "Mastercard媽祖商旅鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "b8555435-6bbc-499e-9920-186de0da0e21",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "JCBQ版媽祖晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "fbd405f1-286e-4a39-89b3-0b5c8b8047e9",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "JCB媽祖悠遊晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "3bc85565-81ee-442f-bcc1-f659eba0ed83",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "Mastercard媽祖悠遊鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "d0d1bc74-b97c-4001-b284-45a164eeac52",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "Mastercard媽祖悠遊商旅鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "dd3e0c6d-d2e8-4d40-94fa-4267359007ab",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "Mastercard悠遊加油鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "d5ff5627-3ea9-4170-8576-a1fc4b75c974",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "JCB悠遊加油晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "86d75371-5717-47cf-bc1b-6f6a9a6824ef",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "JCB哆啦A夢悠遊晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "c63f7816-cd2c-4014-b516-868500e46b6f",
+        "bankid": "d5b7be0b-a636-4bf2-b93c-e6dfbf0c4f8e",
+        "cardname": "Mastercard世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "fdac1fc3-fb7f-4ca8-83e6-ea168e6e6bc6",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "VISA無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "58b2ad9d-5860-4f96-ad53-a1e8b26c1c02",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "MASTER世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "d5811093-728d-47b9-aaf5-cb7892e969b4",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "個人VISA御璽商旅卡",
+        "cardimage": null
+    },
+    {
+        "id": "c1fe266f-e94c-4097-b236-8fb43007819a",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "房貸鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "5309d4ce-6c3b-4665-bf15-50fecdc22ebf",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "房貸白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "27dd1bbb-6fe6-436d-818d-503cec802aaf",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "VISA/JCB/MASTER白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "277f5bae-41e3-4e68-8f60-75a98604b35d",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "MASTERCARD鈦金聯名悠遊卡",
+        "cardimage": null
+    },
+    {
+        "id": "433cbc9f-537e-4abc-8ebe-69909cdb0309",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "JCB晶緻一卡通聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "fb68dded-e0d7-4594-b473-1ceb43abfdbe",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "卡娜赫拉icash聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "7564ccf7-6b67-45d6-ac3a-2385895655a4",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "台大醫院鈦金combo悠遊卡",
+        "cardimage": null
+    },
+    {
+        "id": "5e27464e-08c2-4cc8-b98f-25b398d987b8",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "合庫一般醫院卡",
+        "cardimage": null
+    },
+    {
+        "id": "d047d612-d075-4863-82b0-65530e7e1fde",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "靈鷲山富貴卡MASTERCARD白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "96cc356f-90af-4ab0-9651-38875594efd9",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "心髒病兒童基金會認同卡白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "e67751a0-2c8b-4595-b174-5dc7d0247f0d",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "國立臺北商業大學認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "90caa0c3-34ef-4499-bb95-0bdae765ac26",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "宜蘭信用合作社聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "9e0dec17-6833-4f7a-92dc-e6fd68273288",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "彰化第五信用合作社聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "9ad4d30f-2cd2-4cab-b854-b85792d5a3be",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "高雄市第三信用合作社聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "3b958dba-5040-4817-8f5e-8ccea4034293",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "台北市第五信用合作社聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "749b4c56-060b-4e5b-8441-ac716eda5746",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "國立臺中科技大學認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "91412a59-9ad3-417f-90c9-b04ba3e88e5e",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "鹿港天后宮認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "d7deb6ea-35aa-4727-8d95-064281f5c4f5",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "合庫樂活卡",
+        "cardimage": null
+    },
+    {
+        "id": "37c45188-d3cc-43ed-837a-7f6187f73f5b",
+        "bankid": "7ca24cbd-00da-474d-9aa3-b2107626a148",
+        "cardname": "合庫活力御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "8ac0c9ff-37f5-49f1-a7dd-454a99864876",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "牙醫師公會認同卡（世界卡/鈦金卡）",
+        "cardimage": null
+    },
+    {
+        "id": "1d83bcd6-af9b-4daa-b366-f237019d8be3",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "國防醫學院校友聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "d3a5c613-a844-4c30-bf43-bade009d0850",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "牙醫師全聯會世界悠遊卡",
+        "cardimage": null
+    },
+    {
+        "id": "a3ee63b6-837f-4f71-8894-a7897f2d53fb",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "醫師公會認同卡-世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "6f3bf1b8-ae09-47f2-84cc-1683df1c3708",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "醫師公會認同卡-鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "86b8f8b7-ff0c-4027-a33c-ca4759b978b8",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "世界商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "54ef0d61-8c88-40ac-a02e-d2cbef4f3c89",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "（聯名卡）大戶屋白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "f03d5cbb-d553-4302-88fb-db71630e9f82",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "（聯名卡）大戶屋普卡",
+        "cardimage": null
+    },
+    {
+        "id": "d8a38bb5-2f5d-4942-9993-240f6bf7b8c6",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "（聯名卡）康和證券白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "ff1a041f-d002-49ed-a20f-616b8468963d",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "（聯名卡）康和證券金卡",
+        "cardimage": null
+    },
+    {
+        "id": "95274285-a959-48ef-9df7-9625aec6d5de",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "（聯名卡）寶吉祥鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "5d91360c-6b52-4133-ac3c-a4daffbc242d",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "（認同卡）會計師金卡",
+        "cardimage": null
+    },
+    {
+        "id": "747485eb-cd47-4a79-875d-3488c2e91fbf",
+        "bankid": "312ce39d-4863-4590-9de9-8de565bb54a9",
+        "cardname": "（認同卡）建築師金卡",
+        "cardimage": null
+    },
+    {
+        "id": "447424ba-9ed6-4f91-93e1-2c5cc3aaf895",
+        "bankid": "25fa763a-b7e0-4e98-adff-7cc062611967",
+        "cardname": "花旗現金回饋卡",
+        "cardimage": null
+    },
+    {
+        "id": "219b4d95-8da7-4717-a03b-0b8a56934311",
+        "bankid": "25fa763a-b7e0-4e98-adff-7cc062611967",
+        "cardname": "花旗現金回饋PLUS卡",
+        "cardimage": null
+    },
+    {
+        "id": "9bea230c-3233-4846-bf04-4d7fc114cf5e",
+        "bankid": "25fa763a-b7e0-4e98-adff-7cc062611967",
+        "cardname": "花旗紅利回饋卡",
+        "cardimage": null
+    },
+    {
+        "id": "a9b8215f-91de-41c9-9408-e5656f340b0c",
+        "bankid": "25fa763a-b7e0-4e98-adff-7cc062611967",
+        "cardname": "花旗哩程回饋卡",
+        "cardimage": null
+    },
+    {
+        "id": "85ce2e49-5a0b-4e6d-8fb9-9bd503259a2b",
+        "bankid": "25fa763a-b7e0-4e98-adff-7cc062611967",
+        "cardname": "花旗PChome Prime聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "3040b1f2-3eb9-4d73-9e0b-f7fca5fa0726",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "iLeo信用卡-鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "f2ad27b0-1a05-4d4a-a180-2ce109525025",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "Wonderful星璨卡-御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "ccb4ce35-50d7-4389-9543-9dac7b1f3bc5",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "御璽_鈦金商旅卡",
+        "cardimage": null
+    },
+    {
+        "id": "6985c54e-5c8c-41db-b450-af81be4873a5",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "雙幣鈦金商旅卡",
+        "cardimage": null
+    },
+    {
+        "id": "a2bbc1de-719e-42b7-bc9c-f925683c7d2c",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "白金商旅卡",
+        "cardimage": null
+    },
+    {
+        "id": "d0d6131c-8ed9-46b5-ab37-c515af455e54",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "菁英御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "2c83f413-14f6-436f-9c48-77069e272cd7",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "尊榮白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "f66bebda-95e0-40e6-bb77-f51c279cf910",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "曼黛瑪蓮聯名白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "20e55d91-66d2-4b77-8723-1cfa36c6509f",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "悠遊聯名白金卡卡",
+        "cardimage": null
+    },
+    {
+        "id": "6f35af2e-185a-4308-b05b-0601d7d77f66",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "大同寶寶聯名白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "dfa4605b-5b39-430a-9247-8d9e09b47a41",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "速邁樂聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "a9a13efd-5cbb-42f6-8447-870ec30b871f",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "環貫綠加利聯名晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "f52636aa-d055-42ad-bd98-ba97f26ac70c",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "icash聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "a292d542-d894-4fa8-9b4f-5656fa94ad2a",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "丹堤聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "f6272e79-345e-4bb9-9d18-5db21024d6eb",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "悠遊聯名晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "76ebb093-4ded-431d-a2d2-b34815d97dec",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "速邁樂聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "d388d77a-a6b7-46ab-95ef-2fbc3d01732b",
+        "bankid": "887fe90f-64a9-40d6-87fb-6a6ec53888e1",
+        "cardname": "里仁為美福智御璽聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "1a337502-9aa6-4327-94cb-94ca2d37da05",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "卡娜赫拉的小動物聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "01916f25-1587-41b1-83d9-ce606e9590db",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "三麗鷗可愛明星LED信用卡",
+        "cardimage": null
+    },
+    {
+        "id": "8ad34093-f93f-4f3a-9652-326ca31ad303",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "OPENPOINT超級點數聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "50f1e4ee-f035-4c06-a45c-03399b41c78e",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "icash聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "02a34a9d-d53a-4362-8c07-af2140b5a4f2",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "HAPPYCASH&HAPPYGO聯名卡--爵愛黑卡",
+        "cardimage": null
+    },
+    {
+        "id": "e371722d-1642-4742-9b8d-90f19e27fb66",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "LOVE晶緻悠遊聯名卡--酷愛黑卡",
+        "cardimage": null
+    },
+    {
+        "id": "6d150f6a-4d12-48e8-ac23-2379a504a232",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "Scottish House聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "cd764e32-493b-4f5c-9b1d-56f7a8371c56",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "華南櫃買贏家生活卡",
+        "cardimage": null
+    },
+    {
+        "id": "f588cd0a-4e21-4924-b7ab-9513e94153ca",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "大甲媽祖認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "7e70fa36-3e24-448c-a7b1-b952f312e2df",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "新竹市民認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "b9fb357c-d704-4b66-ae61-25069ad20b93",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "台灣大學御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "a38ef7e2-8cec-466f-91f4-f2c7e92809f1",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "華南夢時代一卡通御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "69e3cc2c-bf7b-47a4-9549-bdfe34d9f902",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "信望愛認同普卡",
+        "cardimage": null
+    },
+    {
+        "id": "067b05d2-d5fe-4b9f-b060-27e58da19446",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "超級現金回饋JCB晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "4d7ebbca-6854-4ce3-ab79-8e5198f9f6f3",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "美饌紅利世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "0b95c514-947b-4c9a-bacd-061d53e26ccc",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "優或YOHO晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "22627d53-dd1a-4dfd-8237-609aa828fdeb",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "combo life 御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "cbf6582d-ee15-433a-83d1-6c0b7b4a50ed",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "combo life 鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "85b1cea2-43fd-4ce3-9a15-13690cb492e8",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "美饌紅利御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "a451d660-1841-47a1-85d4-072df1669913",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "美饌紅利晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "ac1b18aa-ec8b-41de-8a2b-0c2a8c1eac72",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "美饌紅利鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "a3d551fc-5a93-40de-8964-45c2c1b7489a",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "超級現金回饋MasterCard鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "04a14926-78a0-4064-9344-c97ee121a11d",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "超級現金回饋VISA御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "2fb8be5c-80fd-4166-8192-a977cca5b09d",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "信望愛認同金卡",
+        "cardimage": null
+    },
+    {
+        "id": "df1fa7ec-a786-40bb-9cf2-27e680582e8b",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "信望愛認同白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "82089b43-793c-4620-b219-417ab94faed9",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "華南夢時代icash御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "32946e52-ef86-4305-a269-b3abd2c2871e",
+        "bankid": "6b353d49-3035-4537-b88a-2df75ba88e45",
+        "cardname": "星展豐盛尊耀無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "d9e1d22c-de19-4637-b78c-1ce5d8c63c3a",
+        "bankid": "6b353d49-3035-4537-b88a-2df75ba88e45",
+        "cardname": "星展豐盛無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "89241261-5be0-4671-ac49-9f99068d0334",
+        "bankid": "6b353d49-3035-4537-b88a-2df75ba88e45",
+        "cardname": "星展飛行世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "cd4f5012-5c6c-4392-bf95-04f7e462f5fb",
+        "bankid": "6b353d49-3035-4537-b88a-2df75ba88e45",
+        "cardname": "星展飛行鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "4dbcfcfc-5f5f-4579-ae08-db45e3b87e4c",
+        "bankid": "6b353d49-3035-4537-b88a-2df75ba88e45",
+        "cardname": "星展炫晶御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "03e0cc9f-4a56-48bf-821c-11bf51168f63",
+        "bankid": "6b353d49-3035-4537-b88a-2df75ba88e45",
+        "cardname": "星展everyday鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "71a558ea-783d-4baa-aa81-db630616b87e",
+        "bankid": "6b353d49-3035-4537-b88a-2df75ba88e45",
+        "cardname": "星展優仕商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "75aeca92-707c-467f-b361-f9425f062108",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦富利生活卡",
+        "cardimage": null
+    },
+    {
+        "id": "bd23491e-e995-4792-9ec1-bdcae6ba610e",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦悍將悠遊聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "848ca63d-912e-4151-8750-bf69e1d705ef",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "8cc8090f-b87b-4812-beef-5c31377eeea4",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦銀行卡",
+        "cardimage": null
+    },
+    {
+        "id": "f6a08853-0a2a-4fb9-857c-b04835434382",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "采盟聯名白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "2b0b21b0-9458-4ab0-a82f-020e6ee02e9f",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "台北市政府認同卡（白金卡）",
+        "cardimage": null
+    },
+    {
+        "id": "237d5de1-2332-403c-bf9a-f6b5e175bcce",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "采盟聯名鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "e0f9e66e-e151-4164-9a83-fc77b35f94c6",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦IMPERIAL尊御世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "cab67b9f-e9cf-4220-81c8-6c069681dbf5",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "32c289ae-c2f1-4dd4-b286-7f3a5cb16c8e",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "5b10273a-c792-43eb-ae30-dd0a78bb7c5a",
+        "bankid": "03d69a86-0995-45a6-aa65-6692d7b2a558",
+        "cardname": "富邦商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "d38b8aea-4834-41f4-aa87-588358be5033",
+        "bankid": "29b207fe-e644-4541-922f-e9b847782b2a",
+        "cardname": "尊富無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "4096b6cc-79c1-46a4-a1a9-6e83dc6353d4",
+        "bankid": "29b207fe-e644-4541-922f-e9b847782b2a",
+        "cardname": "一般無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "ccedd4df-f301-40fd-a072-af50e76ef118",
+        "bankid": "29b207fe-e644-4541-922f-e9b847782b2a",
+        "cardname": "中壽無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "10576673-2011-4745-bea8-4d8ffd455747",
+        "bankid": "e7b794ee-cbeb-4248-95d0-0b5eaa58fa9e",
+        "cardname": "無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "1e065d02-f2cf-4df8-b2ee-df0a9a0402ed",
+        "bankid": "e7b794ee-cbeb-4248-95d0-0b5eaa58fa9e",
+        "cardname": "鼎鑽財富無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "7203de10-8ed3-49e4-a0f1-9c0a6f95847b",
+        "bankid": "e7b794ee-cbeb-4248-95d0-0b5eaa58fa9e",
+        "cardname": "世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "1b1151c1-7d51-48e1-af48-4b68aa403fd6",
+        "bankid": "e7b794ee-cbeb-4248-95d0-0b5eaa58fa9e",
+        "cardname": "極緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "3014256b-e99d-4038-9867-c7838392fbcd",
+        "bankid": "e7b794ee-cbeb-4248-95d0-0b5eaa58fa9e",
+        "cardname": "新光三越聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "caefa9df-d1fc-4c9b-bd27-55fd90dee7b0",
+        "bankid": "e7b794ee-cbeb-4248-95d0-0b5eaa58fa9e",
+        "cardname": "新光加油卡",
+        "cardimage": null
+    },
+    {
+        "id": "394947a2-1726-47c3-9aa9-197617c19f7e",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "台朔聯名鈦商卡",
+        "cardimage": null
+    },
+    {
+        "id": "acc591a6-aab9-490f-8774-61f793b43fc8",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "eTag聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "07449fcd-02ac-44df-995b-ffee950b7d7c",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "eTag鈦金聯名商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "358d7bb5-2b51-478c-ac80-3602e64d9aa7",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "i刷金融卡",
+        "cardimage": null
+    },
+    {
+        "id": "dc5bce9f-c8bb-4718-9352-9500e7fb7ca6",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "KOKO(combo)悠遊聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "bc2468bc-59e1-4293-9110-6b3e46146f3f",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "鈦金商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "5d24273c-76c5-401b-9ed3-a212609086fd",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "尊榮御璽卡(combo)卡",
+        "cardimage": null
+    },
+    {
+        "id": "d7b8ab0a-68d5-43d2-bd8a-ddbe903a573c",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "ff2a3bcc-83da-42de-bf99-958e2ede1a0f",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "雙幣卡",
+        "cardimage": null
+    },
+    {
+        "id": "ea9c64cb-c0ef-4b2c-ae6c-b1f3ca9f9158",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "eTag聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "b8d18bfe-6d07-4230-9cd2-d0c7fb5ac22d",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "遠東SOGO悠遊聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "b1a29fda-a0e6-4479-9855-b962d133eb79",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "太平洋SOGO百貨聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "d2664470-9004-4628-985b-ab20eca3ed35",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "國泰人壽聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "41fc6c63-860a-4edb-9070-6b86ffa217e1",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "add21ee4-6418-4acf-b3f8-58649c59eccf",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "Costco聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "db37e568-d42d-478b-b266-3c746ea006c6",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "蝦皮購物聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "58cd4726-85e3-44ec-b0f3-3cb348ab93b2",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "台朔聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "2289dcbf-e374-4b11-b117-5093c1d093e0",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "長榮航空聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "7fd96d5b-8102-43aa-9b8c-93cb5e885376",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "KOKO COMBO icash聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "185f4c18-7771-4338-b062-611cde3a3312",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "44fb7bbb-3591-4c12-9d6a-253db26e4864",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "KOKO icash聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "f1b8b459-319a-4043-adad-c2202072d10b",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "亞洲萬里通聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "8c9facad-5d8c-4e36-b246-d8454d41bb95",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "享購鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "bcdac9b8-2772-42d1-ae16-91218ae188b8",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "現金回饋御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "849a9874-a202-4a5a-aea1-a49e916ff516",
+        "bankid": "84b1f2da-9d6b-47b6-a01b-d938896780ed",
+        "cardname": "台朔聯名晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "270fcffe-6027-4b9f-821d-824087ed983b",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "玉山世界卡（私銀、極致理財會員）",
+        "cardimage": null
+    },
+    {
+        "id": "bdd07cd4-3e34-4566-aa39-09bb4ad34369",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "玉山世界卡（登峰、菁英理財會員）",
+        "cardimage": null
+    },
+    {
+        "id": "c6873665-1a53-4e81-824a-eae0a0f434e0",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "玉山世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "580fb462-9cf2-443b-bee9-43ef7a5b74c6",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "醫師尊榮無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "bef5cddf-6dcc-4afb-8ad7-2c2ffd3fa0e0",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "牙醫師無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "3d2b3f49-9b3a-4b8c-9584-272d7624912c",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "中醫師無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "fbcded94-a0ec-4f1e-a42e-bd55e7617865",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "會計師無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "9ef0a900-4f6b-4e0c-9450-13d0cbf3716b",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "建築師無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "df3acf08-1613-4606-bfda-7cdcfe8ad98d",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "玉山商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "db6ee636-575d-4725-bff9-73af79922699",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "玉山南山廣場鑽石卡",
+        "cardimage": null
+    },
+    {
+        "id": "de12a52c-aef3-425d-b4e9-6c69be5c3894",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "玉山南山廣場世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "166e81df-ebac-4fcd-88ad-b75d72ab7882",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "玉山南山廣場鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "3e011423-cfec-4a71-aa0c-46d3703e7815",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "大江聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "718cee96-eaf4-42d8-ae5e-9f30e19e05ca",
+        "bankid": "ff7736b7-3d0b-4266-a568-c48f21a6ac9f",
+        "cardname": "雙北市牙醫師公會會員卡",
+        "cardimage": null
+    },
+    {
+        "id": "29c87669-10c3-4575-a161-cb8514e28c1a",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "環球/亞洲無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "f65d1d0d-7871-4a16-bd93-8c5441741f97",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "財富無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "886ec2b0-4f32-46b1-b7cc-2a32d9321f15",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "台新商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "fb33dffc-9b4d-44cc-9173-13558708f289",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "國泰航空世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "5d6355d1-9ce3-4d7a-adf0-5e2a0899e5a4",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "新光三越世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "58febb30-bd4c-41e5-a585-99b91cef0291",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "新光三越無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "84313095-96f3-4043-b31e-b0357f6cca07",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "昇恆昌無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "285202a7-0cde-4363-90b7-0dcddebb1380",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "Mercedes-Benz無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "ef3427c9-4b3f-41be-a530-a89235a35e7e",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "Mercedes -Benz御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "b95379f3-f705-404d-81f3-72562be67ee3",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "雙幣信用卡",
+        "cardimage": null
+    },
+    {
+        "id": "37769ca0-0b8c-489b-98ea-da1bfd9b4d9c",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "尊爵世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "662e7cb0-216f-401f-970c-d50809391fb7",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "國泰航空翱翔鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "c378a828-3fab-4f1b-b73b-25e16ae69f95",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "新光三越鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "0cf59e8b-bd18-441c-a97e-f193e653b31b",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "新光三越御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "6da7d219-e31f-4e10-a9c1-511954759a8c",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "新光三越白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "ceda1c7c-51e6-4943-9e1b-963022f6b73b",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "輔仁大學認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "090a0059-aedf-419f-a770-6029e4675c2c",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "新光三越聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "a9984e04-cd2e-453a-b097-d037f6d2fa95",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "幸福加值卡",
+        "cardimage": null
+    },
+    {
+        "id": "2ee7df48-7e5b-4074-b6fb-eb1b2fe9bf8f",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "昇恆昌白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "a5330ad9-4c80-45ef-ab7f-232d3ae750ea",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "昇恆昌御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "418ed3c3-f6f4-444c-9269-f38fae682868",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "smart悠遊御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "2006303c-b06e-4756-bae5-b15a57c83693",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "燦坤聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "b32ff23e-90e0-4adc-9f9e-98e86d49b28d",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "三商美邦聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "423c2daf-5374-4f9f-914e-380b70eb039d",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "比漾聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "fdcf7da5-1350-422c-b063-dc9b8bf16b6d",
+        "bankid": "ce02221b-cc69-42a4-a665-bd5640deb10d",
+        "cardname": "棉花田聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "b4ca74c8-0826-4c0d-bc56-9693fee63eb5",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "中國信託鼎極卡/商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "23000431-0802-447b-bde3-1a393ca3153a",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "LEXUS聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "3d4ebf2e-b11f-4779-8b55-54a6b8db1599",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "中信鼎極卡（無限卡/極緻卡）",
+        "cardimage": null
+    },
+    {
+        "id": "61a0d8ad-e81a-4655-b491-e69601edff24",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "中信紅利御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "7ba017ce-534d-48b3-9dfd-c09b3dbd605f",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "中信紅利晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "e486d741-cd50-40a6-8b0b-327e983a29e6",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "中信紅利卡",
+        "cardimage": null
+    },
+    {
+        "id": "3842b791-8b90-45fd-bfdc-862e3facf397",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "酷玩卡",
+        "cardimage": null
+    },
+    {
+        "id": "cb8344e2-2598-43e0-a873-79a2a8eebc05",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "享想生活卡",
+        "cardimage": null
+    },
+    {
+        "id": "8711acb2-1d21-451a-aa36-52073a09a143",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "商旅卡",
+        "cardimage": null
+    },
+    {
+        "id": "3fda6fb9-fcee-46f6-860c-27f12296a49e",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "iPlan卡",
+        "cardimage": null
+    },
+    {
+        "id": "b9938f1f-7d87-437a-b871-9df61a044544",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "勤美天地聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "7caddf73-ed17-4037-98fc-dfdaa780b23d",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "Taipei 101聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "4e552e6a-d09c-4b99-8a55-e53053cbbe46",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "中油聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "0354f404-5b8c-4c99-94c1-58b043c3de5c",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "大葉高島屋百貨聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "3ac18237-69d6-494c-ab8f-517e343c11b7",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "Global Mall聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "93cd5180-2f90-46a3-9d0d-620521cf9f9e",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "MUJI無印良品晶緻卡/御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "242bbbe5-1177-4138-ace0-56941edcfd8b",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "秀泰聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "3a9b0b74-9e0b-44c5-a7cc-d72c26533dd8",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "一般民眾版國民悠遊卡",
+        "cardimage": null
+    },
+    {
+        "id": "80e384c7-98e2-4d5d-ac00-ae3152069101",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "慈濟蓮花卡",
+        "cardimage": null
+    },
+    {
+        "id": "24c98f28-8c2e-42a3-ac3d-a8ce0c7daa06",
+        "bankid": "aa7a8d92-488c-4f4f-997b-d7d3a9c8a590",
+        "cardname": "學學認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "0bc29fde-55aa-469c-99a9-a1bbca87a4c2",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "銀色之愛商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "8a14ff05-f8dc-43f4-aea2-5efa1994e5cb",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "鈦金商旅卡",
+        "cardimage": null
+    },
+    {
+        "id": "926fc712-fe5c-4bb6-ad72-da4d7fc18f91",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "故宮之友認同卡御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "0b49c90c-c87d-42a8-887f-28f6840b55b7",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "悠遊聯名卡鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "b2df1e98-142e-4ff3-a55f-dbb7d3dc812f",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "一卡通聯名卡鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "d132414b-5f12-4cc1-85e7-0c18b25b11c3",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "宜蘭悠遊認同卡鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "c0aa732e-5407-490d-b0fc-0cd17838f340",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "青溪之友悠遊認同卡鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "743bdc61-d6dd-4742-a90b-4bd55f38bb40",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "獅子之友認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "58b8fbe6-dadf-4f4e-82d2-837e35dcdb33",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "北港朝天宮認同卡鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "d654b4e3-e976-4b2d-88a8-8d7c602514bd",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "信保基金111關懷商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "a462ee35-08aa-47fe-a344-f4a0ea09f17b",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "得利Combo晶片卡",
+        "cardimage": null
+    },
+    {
+        "id": "4e28b585-0c48-46f7-9106-686b96f42538",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "VISA信用卡",
+        "cardimage": null
+    },
+    {
+        "id": "239c7b35-26c7-4049-a240-abf8d2564cda",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "商務卡",
+        "cardimage": null
+    },
+    {
+        "id": "7a1e5761-5264-48fa-a791-8737b0081908",
+        "bankid": "ad3e9cf6-bc2b-47b9-ba9e-20d8f6eb1d5f",
+        "cardname": "故宮之友認同卡白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "8ab87647-a928-4675-a344-d8e7468fd0ed",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "個人商旅卡Plus",
+        "cardimage": null
+    },
+    {
+        "id": "4548e7ae-0794-4eaf-914c-27edb8125694",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "個人商旅卡Basic",
+        "cardimage": null
+    },
+    {
+        "id": "3b6acb19-3e9d-42cd-bdf6-f38735d82c70",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "美福聯名無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "02b7db12-117f-445b-8a8c-4811104c11b2",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "美福聯名御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "d3a6a55a-f874-41aa-8e03-4913447334b7",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "兆豐世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "09fe5599-4a01-4e8e-8aaf-9f9dc964dabb",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "兆豐無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "7558c50b-959d-4748-9298-787a5c81bada",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "Mega VISA白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "03ca8d84-0e8a-4122-a045-6cba94670e76",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "Mega JCB晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "a31c50ce-6243-4bb9-892e-ecd4ed4a721b",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "小金剛普卡",
+        "cardimage": null
+    },
+    {
+        "id": "f6b15d2a-cc52-48e2-8fb9-00509a245617",
+        "bankid": "e7489111-84b3-422f-9115-b60969be2db2",
+        "cardname": "小金剛白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "7150d289-97a1-4f80-8725-a68fbeb118c8",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "Hello Kitty點數聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "ffb187df-1a82-4265-8010-997cd8f3fb82",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "ipass分享黑啤卡/分享黑啤卡",
+        "cardimage": null
+    },
+    {
+        "id": "a655d52b-07b3-44d2-9022-d53b8f138a6e",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "鑽金卡",
+        "cardimage": null
+    },
+    {
+        "id": "5aa01c24-f9ec-46ca-8629-8930603fecfe",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "鑽金一卡通聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "78541383-d6e8-44e1-ba0c-77004a7c2a54",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "鑽金icash聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "2ee9d478-3b0f-480b-bb85-6a13979db665",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "All New Visa樂遊卡",
+        "cardimage": null
+    },
+    {
+        "id": "731056a9-820e-4bff-b1ed-5c0eebeb15d2",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "Wi-Ho!Online聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "f93c5fda-bfbc-4d2e-83bf-9934550308f6",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大Life卡",
+        "cardimage": null
+    },
+    {
+        "id": "16a2ad42-4ff2-480f-8e9b-8def198e79cc",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大MAZDA天空卡",
+        "cardimage": null
+    },
+    {
+        "id": "03db24d0-010d-4745-b303-547f0c1fb0ab",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "中華電信感恩卡",
+        "cardimage": null
+    },
+    {
+        "id": "54d02936-5750-44b0-aa19-71ea081c785b",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大樂遊卡",
+        "cardimage": null
+    },
+    {
+        "id": "fec14203-51ae-433f-9b72-dbd66d33d586",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "高醫認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "8e50e1e4-10cb-4443-8b3a-487929e2c9ba",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "松山慈惠堂公益認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "dbc6485e-7feb-48de-a10a-58e9175f8d14",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "彰化同鄉會公益認同卡",
+        "cardimage": null
+    },
+    {
+        "id": "9dea53ab-552b-4c10-8377-ca7849865141",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大一番卡",
+        "cardimage": null
+    },
+    {
+        "id": "cf40e82e-b863-4ddf-af01-14778eac4777",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "富貴無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "8bbfd47d-e5f7-4fae-9c75-87894634462f",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "f2653c9c-35b2-4d5b-8464-8799b57c1e4e",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "分享御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "c324dd5c-0eaf-430c-b71c-719e7e746dc9",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "愛PASS晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "45f7770d-49c5-4139-8bf7-f94f632a57fe",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "icash愛現鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "fb467d0e-97af-4c61-b8c2-3dcca7187fde",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "樂享晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "6fb45f81-5ebd-4557-862e-8d1d49c46226",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "中華電信商務鈦金感恩卡",
+        "cardimage": null
+    },
+    {
+        "id": "245d4fc6-8021-460c-b591-6f64198b2bc1",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "deed005b-f824-4a72-9f51-d17a5228ac83",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大商務鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "62fca7c1-6812-4dc4-8e3c-19d05e28e535",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大商務白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "545eec85-7bab-4078-9d4a-2f138987a745",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "271728c4-6854-4416-9b31-1b35b9d56cf4",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "88589a63-f2b8-4a36-9589-8d987fc5bd5a",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "分享鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "96ef8588-f19d-4f78-a013-dc4fb77c3c50",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "愛PASS鈦金卡",
+        "cardimage": null
+    },
+    {
+        "id": "0f1303f9-051f-4904-a815-ca071cab7c92",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "icash愛現晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "5b6067e5-9c14-4963-bf27-2cb324d77f5f",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大藝術商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "8562ba7c-f06a-4811-9072-4eb144a7a605",
+        "bankid": "80946357-3ac5-41cd-ad8d-2c78f9823523",
+        "cardname": "元大藝術白金卡",
+        "cardimage": null
+    },
+    {
+        "id": "dc3defb8-d2ac-481f-848c-5a7f3e9b6f21",
+        "bankid": "66918b45-93d2-4052-b207-32fe04d8d537",
+        "cardname": "遠東頂級快樂卡",
+        "cardimage": null
+    },
+    {
+        "id": "b5619e9b-cbbe-4ccf-8e83-e49b62742087",
+        "bankid": "66918b45-93d2-4052-b207-32fe04d8d537",
+        "cardname": "New Century世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "eec2f5a9-0331-48b2-9dab-fe3467dcfb51",
+        "bankid": "66918b45-93d2-4052-b207-32fe04d8d537",
+        "cardname": "遠東HAPPY GO 頂級卡",
+        "cardimage": null
+    },
+    {
+        "id": "fcbb96ac-b043-410e-85dd-c764a20fbfc0",
+        "bankid": "66918b45-93d2-4052-b207-32fe04d8d537",
+        "cardname": "御璽卡（我的卡經典款）",
+        "cardimage": null
+    },
+    {
+        "id": "4daeb7a5-6e6c-441c-91ad-e372943ee58d",
+        "bankid": "66918b45-93d2-4052-b207-32fe04d8d537",
+        "cardname": "遠東快樂信用卡",
+        "cardimage": null
+    },
+    {
+        "id": "b9e17833-d270-41aa-9c5b-69cdd4ca485f",
+        "bankid": "66918b45-93d2-4052-b207-32fe04d8d537",
+        "cardname": "eTag聯名卡",
+        "cardimage": null
+    },
+    {
+        "id": "148a870d-027d-4c3e-82d0-8625449f355e",
+        "bankid": "66918b45-93d2-4052-b207-32fe04d8d537",
+        "cardname": "New Century無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "d0dbeaa6-65ed-424f-8a90-1d378fb91288",
+        "bankid": "053d0e19-51b0-45e4-bc82-72777e17e823",
+        "cardname": "日盛無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "217ec20d-3263-45d3-9cff-98f79ddb9e3d",
+        "bankid": "053d0e19-51b0-45e4-bc82-72777e17e823",
+        "cardname": "日盛All pass 卡",
+        "cardimage": null
+    },
+    {
+        "id": "c097f94e-104f-40ab-bdf0-a0834dc8f897",
+        "bankid": "053d0e19-51b0-45e4-bc82-72777e17e823",
+        "cardname": "日盛商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "265156fd-9926-4a42-a670-55be22949b77",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "永豐財富無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "1a319a3f-afaf-4226-baf0-27ddfd165fc7",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "1766d826-4262-4562-a44d-a13d39b1577d",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "美安悠遊無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "5312de23-5671-400a-b356-e08297e1040b",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "永豐SPORT卡",
+        "cardimage": null
+    },
+    {
+        "id": "e3c6bf8d-ff63-4a40-b157-e3e245f3fe20",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "永豐世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "146420e8-1c53-4c4c-a9b4-bd381c6da434",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "豐富卡",
+        "cardimage": null
+    },
+    {
+        "id": "e8ab8941-e67d-421f-bc88-bd1c16c16fb3",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "永豐e卡",
+        "cardimage": null
+    },
+    {
+        "id": "b85026a0-3c33-49a0-89e0-983098adfc88",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "八通卡",
+        "cardimage": null
+    },
+    {
+        "id": "6026610c-ab8f-4593-b5ed-82d41face266",
+        "bankid": "4d733227-acd4-4932-85a2-5b5f51d4d97a",
+        "cardname": "購物卡",
+        "cardimage": null
+    },
+    {
+        "id": "4ff02181-6785-4b1e-803c-30ad41124280",
+        "bankid": "a8ffee83-815c-4aa9-9fe0-8bfa1acc98a2",
+        "cardname": "JCB晶緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "55c538e0-0b8a-4648-ad01-4771523b8782",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "華南夢時代聯名無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "f769ef85-9527-4df9-850c-84d3feff719b",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "台灣大學商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "653cc029-7a29-41b4-9b6c-7faba473d3c7",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "旅鑽個人無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "9fadff92-f466-4b09-881f-a61f87562bf6",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "旅鑽個人世界卡",
+        "cardimage": null
+    },
+    {
+        "id": "bff76f02-7817-4f09-a0a2-1bfc0409b75e",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "旅鑽個人極緻卡",
+        "cardimage": null
+    },
+    {
+        "id": "4cec200f-f11a-4ff9-a159-1850c3b4bb6b",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "旅鑽個人商務御璽卡",
+        "cardimage": null
+    },
+    {
+        "id": "950e981c-48b1-4807-a48c-4456e47594e2",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "THE ONE 尊榮卡",
+        "cardimage": null
+    },
+    {
+        "id": "e7dd3ef2-0554-4b6e-8e4e-5b851edd4c9f",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "台灣大學無限卡",
+        "cardimage": null
+    },
+    {
+        "id": "b0362b8f-0d5d-419a-a30c-5bb84b009590",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "領航極致尊榮卡",
+        "cardimage": null
+    },
+    {
+        "id": "d5b791b0-3324-41c2-881f-a6eddb64f0ac",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "領航尊榮卡",
+        "cardimage": null
+    },
+    {
+        "id": "e7d32c92-f9d6-449a-ac54-34b8618a3e44",
+        "bankid": "95f6bd44-0302-4d7a-92ba-01d33679485a",
+        "cardname": "華南櫃買贏家無限卡",
+        "cardimage": null
+    }
+]
